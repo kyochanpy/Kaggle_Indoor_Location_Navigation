@@ -4,4 +4,4 @@ input/
 *.gz
 *.pkl
 *~
-*.sw
+*.swp
